@@ -13,3 +13,7 @@ We model the school timetable problem using [PuLP](https://github.com/coin-or/pu
 ### Example
 
 We adapt a simple example from the [PuLP documentation](https://coin-or.github.io/pulp/CaseStudies/a_blending_problem.html) (the "blending problem"), which is solved in [blending_problem.py](tests/blending_problem.py).
+
+## The school timetable problem
+
+Our current formulation can be found [here](https://www.overleaf.com/project/617bdc0339ff1766f6425249).
